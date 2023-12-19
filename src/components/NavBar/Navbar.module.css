@@ -1,0 +1,7 @@
+.titulo{
+    color: #ff3d6d;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
